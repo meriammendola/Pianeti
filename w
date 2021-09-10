@@ -1,0 +1,2 @@
+creato file mercurio
+
